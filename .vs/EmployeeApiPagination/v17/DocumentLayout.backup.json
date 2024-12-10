@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\EmployeeApiPagination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42334ECE-725B-46F4-BDA0-E80F3A9EA17C}|EmployeeApiPagination\\EmployeeApiPagination.csproj|d:\\visual studio projects\\employeeapipagination\\employeeapipagination\\controllers\\employeepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42334ECE-725B-46F4-BDA0-E80F3A9EA17C}|EmployeeApiPagination\\EmployeeApiPagination.csproj|solutionrelative:employeeapipagination\\controllers\\employeepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeePagination.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\EmployeeApiPagination\\EmployeeApiPagination\\Controllers\\EmployeePagination.cs",
+              "RelativeDocumentMoniker": "EmployeeApiPagination\\Controllers\\EmployeePagination.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\EmployeeApiPagination\\EmployeeApiPagination\\Controllers\\EmployeePagination.cs",
+              "RelativeToolTip": "EmployeeApiPagination\\Controllers\\EmployeePagination.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:48:41.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
